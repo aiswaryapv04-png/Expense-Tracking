@@ -32,8 +32,3 @@ A simple expense tracker application to record, view, and manage personal expens
 
 Adjust commands above to match the project's actual start script.
 
-
-## Contact
-
-Maintained by aadith2 — feel free to open issues or contact me via GitHub.
-```
